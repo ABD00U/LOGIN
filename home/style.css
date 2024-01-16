@@ -1,0 +1,20 @@
+body,
+.title {
+  background-color: #24353f;
+}
+
+.title,
+.navbar {
+  box-shadow: black 10px 10px 10px;
+  color: antiquewhite;
+}
+
+button {
+  background-color: transparent;
+  border: 2px solid black;
+  color: antiquewhite;
+}
+a {
+  text-decoration: none;
+  
+}

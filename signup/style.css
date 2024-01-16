@@ -1,0 +1,23 @@
+:root {
+  --main-color: #24353f;
+  --second-color: #17a2b8;
+}
+
+body,
+div {
+  background-color: var(--main-color);
+}
+div {
+  box-shadow: black 0px 15px 100px;
+}
+
+h2 {
+  color: var(--second-color);
+}
+
+input,
+button {
+  background: transparent;
+  border: solid 1px #b6b6b6;
+  border-radius: 20px;
+}
